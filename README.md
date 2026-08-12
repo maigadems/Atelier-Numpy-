@@ -17,7 +17,7 @@ des exercices, résolus et exécutés.
 - [x] Partie 3 — Exploration des tableaux
 - [x] Partie 4 — Indexation et slicing
 - [x] Partie 5 — Filtrage booléen
-- [ ] Partie 6 — Manipulation des dimensions
+- [x] Partie 6 — Manipulation des dimensions
 - [ ] Partie 7 — Concaténation
 - [ ] Partie 8 — Calcul scientifique
 - [ ] Partie 9 — Broadcasting
