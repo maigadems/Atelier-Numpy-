@@ -20,7 +20,7 @@ des exercices, résolus et exécutés.
 - [x] Partie 6 — Manipulation des dimensions
 - [x] Partie 7 — Concaténation
 - [x] Partie 8 — Calcul scientifique
-- [ ] Partie 9 — Broadcasting
+- [x] Partie 9 — Broadcasting
 - [ ] Partie 10 — Bonus
 
 ## Installation
