@@ -19,7 +19,7 @@ des exercices, résolus et exécutés.
 - [x] Partie 5 — Filtrage booléen
 - [x] Partie 6 — Manipulation des dimensions
 - [x] Partie 7 — Concaténation
-- [ ] Partie 8 — Calcul scientifique
+- [x] Partie 8 — Calcul scientifique
 - [ ] Partie 9 — Broadcasting
 - [ ] Partie 10 — Bonus
 
