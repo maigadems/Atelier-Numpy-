@@ -14,7 +14,7 @@ des exercices, résolus et exécutés.
 
 - [x] Partie 1 — Listes Python vs tableaux NumPy
 - [x] Partie 2 — Création des données
-- [ ] Partie 3 — Exploration des tableaux
+- [x] Partie 3 — Exploration des tableaux
 - [ ] Partie 4 — Indexation et slicing
 - [ ] Partie 5 — Filtrage booléen
 - [ ] Partie 6 — Manipulation des dimensions
