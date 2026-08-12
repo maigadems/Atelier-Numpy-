@@ -16,7 +16,7 @@ des exercices, résolus et exécutés.
 - [x] Partie 2 — Création des données
 - [x] Partie 3 — Exploration des tableaux
 - [x] Partie 4 — Indexation et slicing
-- [ ] Partie 5 — Filtrage booléen
+- [x] Partie 5 — Filtrage booléen
 - [ ] Partie 6 — Manipulation des dimensions
 - [ ] Partie 7 — Concaténation
 - [ ] Partie 8 — Calcul scientifique
