@@ -13,7 +13,7 @@ des exercices, résolus et exécutés.
 ## Progression
 
 - [x] Partie 1 — Listes Python vs tableaux NumPy
-- [ ] Partie 2 — Création des données
+- [x] Partie 2 — Création des données
 - [ ] Partie 3 — Exploration des tableaux
 - [ ] Partie 4 — Indexation et slicing
 - [ ] Partie 5 — Filtrage booléen
